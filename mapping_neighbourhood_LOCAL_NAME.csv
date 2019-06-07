@@ -678,7 +678,7 @@
 "Evros Traianoupoli","K. ANUEIAS"
 "Florina Prefecture Aetos","K. AGRILIAS"
 "Kilkis Prefecture Gallikos","K. NEAS SANTAS"
-"Aetolia & Acarnania Aggelokastro",
+"Aetolia & Acarnania Aggelokastro","K. AGGELOKASTROY"
 "Florina Prefecture Nimfaio","K. NYMFAIOY"
 "Chalkidiki Zervochoria","K. DOYMPIVN"
 "Ilia Foloi","K. LALA"
@@ -697,7 +697,7 @@
 "Trikala Prefecture Aspropotamos","K. XALIKIOY"
 "Messinia Ario","K. ARIOXVRIOY"
 "Rest of Attica Agios Constantinos","K. AGIOY KVNSTANTINOY"
-"Trikala Prefecture Megala Kalivia",
+"Trikala Prefecture Megala Kalivia","K. MEGALVN KALYBIVN"
 "Ilia Gastouni","D. GASTOYNHS"
 "Karditsa Prefecture Itamos","K. ROYSSOY"
 "Karditsa Prefecture Sofades","D. SOFADVN"
@@ -707,7 +707,7 @@
 "Argolis Lirkeia","K. KARYAS"
 "Larissa Prefecture Farsala","D. FARSALVN"
 "Ioannina Prefecture Nisos ioanninnon","K. NHSOY IVANNINVN"
-"Chania Prefecture Gavdos",
+"Chania Prefecture Gavdos","K. GAYDOY (NHSOS)"
 "Larissa Prefecture Armenio","K. ARMENIOY"
 "Lakonia Kythira","K. POTAMOY"
 "Boeotia Îoronias","K. KORVNEIAS"
@@ -716,10 +716,10 @@
 "Aetolia & Acarnania Oiniades","K. PENTALOFOY"
 "Messinia Andania","K. KVNSTANTINVN"
 "Drama Prefecture Kato Nevrokopi","D. KATV NEYROKOPIOY"
-"Lasithi Prefecture Oropedio Lasithiou",
+"Lasithi Prefecture Oropedio Lasithiou","K. AGIOY GEVRGIOY"
 "Evros Feres","D. FERVN"
 "Larissa Prefecture Karia","K. KARYAS"
-"Larissa Prefecture Sarantaporo",
+"Larissa Prefecture Sarantaporo","K. SARANTAPOROY"
 "Karditsa Prefecture Nevropoli Agrafon","K. NEOXVRIOY"
 "Serres Prefecture Lefkonas","K. LEYKVNOS"
 "Lakonia Farida","K. JHROKAMPIOY"
@@ -731,10 +731,10 @@
 "Drama Prefecture Sitagroi","K. FVTOLIBOYS"
 "Dodecanese Nisiros","D. MANDRAKIOY (NHSOS NISYROS)"
 "Lesvos Prefecture Limnos - Moudros","K. MOYDROY"
-"Arta Prefecture Kompotio",
+"Arta Prefecture Kompotio","D. ARTAIVN"
 "Boeotia Orchomenos","D. ORXOMENOY"
 "Rest of Attica Oinoi","K. OINOFYTVN"
-"Evros Kiprinos",
+"Evros Kiprinos","K. KYPRINOY"
 "Evrytania Ktimeni","K. AGIAS TRIADOS"
 "Ioannina Prefecture Tzoumerka","K. AGNANTVN"
 "Ilia Volakas","K. ALFEIOYSHS"
@@ -744,14 +744,14 @@
 "Rethymno Prefecture Sivritos","K. PANTANASSHS"
 "Heraklion Prefecture Îgia Varvara","K. ANV MOYLIVN"
 "Chania Prefecture Fre","K. FRE"
-"Ioannina Prefecture Pramanta",
+"Ioannina Prefecture Pramanta","K. PRAMANTVN"
 "Dodecanese Chalki","D. XALKHS (NHSOS)"
 "Kilkis Prefecture Doirani","K. DROSATOY"
 "Achaia Leontio","K. LEONTIOY"
 "Florina Prefecture Meliti","K. SKOPOY"
 "Phthiotis Elateia","D. ELATEIAS"
 "Larissa Prefecture Koilada","K. ELEYUERVN"
-"Heraklion Prefecture Zaros",
+"Heraklion Prefecture Zaros","K. ZAROY"
 "Pella Kria Vrisi","D. KRYAS BRYSHS"
 "Evros Trigono","K. PENTALOFOY"
 "Lakonia Elos","K. GLYKOBRYSHS"
@@ -761,21 +761,21 @@
 "Dodecanese Tilos","K. LIBADIVN (NHSOS THLOS)"
 "Rodopi Prefecture Neo Sidirochori","K. AGIVN UEODVRVN"
 "Thessaloniki - Suburbs Axios","K. BRAXIAS"
-"Aetolia & Acarnania Inachos",
+"Aetolia & Acarnania Inachos","K. TRIKLINOY"
 "Lesvos Prefecture Limnos - Nea Koutali","K. KONTIA"
 "Fokida Lidoriki","K. DVRIKOY"
 "Trikala Prefecture Pellinaio","K. TAJIARXVN"
 "Grevena Smixi","K. SMIJHS"
 "Evros Soufli","D. SOYFLIOY"
-"Heraklion Prefecture Krousonas",
+"Heraklion Prefecture Krousonas","K. KROYSVNOS"
 "Rest of Attica Sikamino","K. SYKAMINOY"
 "Thesprotia Acherontas","K. SKANDALOY"
 "Phthiotis Tithorea","K. KATV TIUOREAS"
 "Kastoria Prefecture Agia Triada","K. XILIODENDROY"
 "Kilkis Prefecture Mouries","K. MOYRIVN"
-"Kozani Prefecture Mourikio",
+"Kozani Prefecture Mourikio","D. KOZANHS"
 "Ioannina Prefecture Papigko","K. PAPIGKOY"
-"Thesprotia Souli",
+"Thesprotia Souli","K. TSAGGARIOY"
 "Larissa Prefecture Tirnavos","D. TYRNABOY"
 "Fokida Desfina","K. LILAIAS"
 "Lesvos Prefecture Lesvos - Agia Paraskevi","K. AGIAS PARASKEYHS"
@@ -783,7 +783,7 @@
 "Messinia Aristomenis","K. ARISTOMENOYS"
 "Lakonia Skala","K. GRAMMOYSHS (AMPELOXVRIOY)"
 "Trikala Prefecture Faloreia","K. MEGALOY KEFALOBRYSOY"
-"Achaia Kalentzi",
+"Achaia Kalentzi","K. KALENTZIOY"
 "Arta Prefecture Georgios Karaiskakis","K. ELATHS"
 "Aetolia & Acarnania Aitoliko","D. AITVLIKOY"
 "Arta Prefecture Filothei","K. XALKIADVN"
@@ -792,7 +792,7 @@
 "Imathia Antigonides","K. KEFALOXVRIOY"
 "Boeotia Vagies","K. BAGIVN"
 "Trikala Prefecture Malakasi","K. MALAKASHS"
-"Chania Prefecture Kantanos",
+"Chania Prefecture Kantanos","D. KANDANOY"
 "Phthiotis Pavliani","K. PAYLIANHS"
 "Aetolia & Acarnania Menidi","K. MENIDIOY"
 "Karditsa Prefecture Mouzaki","K. KRYOPHGHS"
@@ -801,9 +801,9 @@
 "Arcadia Valtetsi","K. ASEAS"
 "Ioannina Prefecture Molossoi","K. DESPOTIKOY"
 "Ilia Andravida","D. ANDRABIDAS"
-"Kozani Prefecture Vlasti",
+"Kozani Prefecture Vlasti","K. BLASTHS"
 "Messinia Dorio","K. DVRIOY"
-"Aetolia & Acarnania Paravola",
+"Aetolia & Acarnania Paravola","D. PARABOLAS"
 "Larissa Prefecture Ampelakia","K. AMPELAKIVN"
 "Lefkada Prefecture Kalamos","K. KALAMOY (NHSOS)"
 "Kozani Prefecture Velventos","D. BELBENTOY"
@@ -814,13 +814,13 @@
 "Grevena Theodoros Ziakas","K. POLYNERIOY"
 "Larissa Prefecture Makrichori","K. MAKRYXVRIOY"
 "Rethymno Prefecture Kouloukonas","K. KRYONERIOY"
-"Boeotia Antikira",
+"Boeotia Antikira","K. ANTIKYRAS"
 "Thesprotia Sagiada","D. FILIATVN"
 "Serres Prefecture Alistrati","K. ALISTRATHS"
 "Serres Prefecture Petritsi","K. BYRVNEIAS"
 "Kozani Prefecture Aiani","K. XRVMIOY"
 "Messinia Voufrada","K. PETRITSIOY"
-"Karditsa Prefecture Pamisos",
+"Karditsa Prefecture Pamisos","K. AGNANTEROY"
 "Lesvos Prefecture Limnos - Atsiki","K. KASPAKA"
 "Aetolia & Acarnania Platanos","K. AGIOY DHMHTRIOY"
 "Karditsa Prefecture Kampos","K. KARDITSOMAGOYLAS"
@@ -829,33 +829,33 @@
 "Lesvos Prefecture Agios Efstratios","D. MYTILHNHS"
 "Larissa Prefecture Lakereia","K. ANATOLHS"
 "Arta Prefecture Kommeno","K. KOMMENOY"
-"Pieria Prefecture Petra",
+"Pieria Prefecture Petra","K. LOFOY"
 "Arcadia Kosmas","K. KOSMA"
 "Achaia Lefkasio","K. KALLIUEAS"
-"Trikala Prefecture Pindaio",
-"Messinia Eira",
+"Trikala Prefecture Pindaio","D. TRIKKAIVN"
+"Messinia Eira","K. NEDAS"
 "Kozani Prefecture Askio","K. GALATINHS"
 "Serres Prefecture Tragilos","K. AGIOY DHMHTRIOY"
-"Lakonia Niata",
-"Boeotia Distomo",
+"Lakonia Niata","K. NIATVN"
+"Boeotia Distomo","D. DISTOMOY"
 "Karditsa Prefecture Palamas","D. PALAMA"
 "Preveza Prefecture Filippiada","K. DRYMVNOS"
 "Kozani Prefecture Tsotili","D. TSOTILIOY"
 "Serres Prefecture Strimoniko","K. STRYMONIKOY"
-"Lakonia Karies",
-"Heraklion Prefecture Thrapsano",
+"Lakonia Karies","K. KARYVN"
+"Heraklion Prefecture Thrapsano","K. URACANOY"
 "Lakonia Geronthres","K. GERAKIOY"
-"Ioannina Prefecture Vathipedo",
+"Ioannina Prefecture Vathipedo","K. BAUYPEDOY"
 "Arcadia Lagkadia","D. LAGKADIVN"
 "Grevena Avdella","K. LABDA"
 "Ioannina Prefecture Ekali","K. ASFAKAS"
-"Grevena Samarina",
-"Lakonia Pellana",
+"Grevena Samarina","K. SAMARINHS"
+"Lakonia Pellana","K. PELLANAS"
 "Pella Megas Alexandros","K. KARYVTISSHS"
 "Serres Prefecture Achladochori","K. AXLADOXVRIOY"
-"Ioannina Prefecture Sirrako",
+"Ioannina Prefecture Sirrako","K. SIRAKOY"
 "Evrytania Prousos","K. PROYSOY"
 "Kozani Prefecture Ellispontos","K. KAPNOXVRIOY"
 "Drama Prefecture Nikiforos","K. ADRIANHS"
 "Kozani Prefecture Vermio","K. KOMNHNVN"
-"Ioannina Prefecture Fourka",
+"Ioannina Prefecture Fourka","K. FOYRKAS"
