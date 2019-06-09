@@ -1,0 +1,11 @@
+http://geodata.gov.gr/maps/?package=283e45cb-5f6f-4524-bbdb-9a00a2df4f2b&resource=88986507-9921-47e8-ae1f-d4cdd519a921&locale=en
+
+
+
+https://www.kaggle.com/erick5/predicting-house-prices-with-machine-learning
+
+
+https://medium.com/geoai/house-hunting-the-data-scientist-way-b32d93f5a42f
+
+
+http://geodata.gov.gr/en/dataset/oria-demon-kallikrates
