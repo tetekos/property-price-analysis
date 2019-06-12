@@ -1,2 +1,2 @@
-# resolute
-Analyse a dataset from spitogatos.gr
+# property-price-analysis
+Analyse the prices of a property dataset
